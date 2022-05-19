@@ -1,0 +1,3 @@
+% Heading with %
+
+Some Description
